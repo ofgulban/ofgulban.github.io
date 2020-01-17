@@ -28,6 +28,7 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - See <<https://github.com/ofgulban>>.
 
 # Conference posters
+Note: Only first author contributions are listed here.
 ### 2019
 - Gulban, O. F., Kemper, V. G., Poser, B. A., Ivanov, D., & De Martino, F. (2019). 9.4T MRI reveals mesoscopic cortical gray matter vasculature (Version 1). OHBM 2019 poster. <<https://doi.org/10.6084/m9.figshare.8216057>>
 
