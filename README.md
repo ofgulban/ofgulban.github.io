@@ -12,12 +12,12 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - **Gulban, O. F.** (2018). The Relation between Color Spaces and Compositional Data Analysis Demonstrated with Magnetic Resonance Image Processing Applications. Austrian Journal of Statistics, 47(5), 34–46. <<https://doi.org/10.17713/ajs.v47i5.743>>
 
 ### Co-authored
-- Heuer, K., **Gulban, O. F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., … Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
+- Heuer, K., Gulban, O. F., Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., … Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
 
-- Marquardt, I., Schneider, M., **Gulban, O. F.**, Ivanov, D., & Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
+- Marquardt, I., Schneider, M., Gulban, O. F., Ivanov, D., & Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
 
 ## Preprints
-- Marquardt, I., Weerd, P. De, Schneider, M., **Gulban, O. F.**, Ivanov, D., & Uludag, K. (2019). Depth-resolved ultra-high field fMRI reveals feedback contributions to surface motion perception. Retrieved from <<http://dx.doi.org/10.1101/653626>>
+- Marquardt, I., Weerd, P. De, Schneider, M., Gulban, O. F., Ivanov, D., & Uludag, K. (2019). Depth-resolved ultra-high field fMRI reveals feedback contributions to surface motion perception. Retrieved from <<http://dx.doi.org/10.1101/653626>>
 
 ## Data
 - **Gulban, O. F.**, Sitek, K. R., Ghosh, S.S., Moerel, M., De Martino, F. (2019). Auditory localization with 7T fMRI <<https://openneuro.org/datasets/ds001942>>
