@@ -1,17 +1,19 @@
 Omer Faruk Gulban's publications.
 
-## Peer-reviewed articles
+# Peer-reviewed articles
 Note: Multiple **bold** authors indicate shared first authorship.
-### First author
+## First author
+### 2019
 - **Sitek, K. R.**, **Gulban, O. F.**, Calabrese, E., Johnson, G. A., Lage-Castellanos, A., Moerel, M., … De Martino, F. (2019). Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T. ELife, 8, 1–36. <<https://doi.org/10.7554/eLife.48932>> 
 
+### 2018
 - **Gulban, O. F.**, **Schneider, M.**, Marquardt, I., Haast, R. A. M., & De Martino, F. (2018). A scalable method to improve gray matter segmentation at ultra high field MRI. PloS One, 13(6), e0198335. <<https://doi.org/10.1371/journal.pone.0198335>>
 
 - **Gulban, O. F.**, De Martino, F., Vu, A. T., Yacoub, E., Uğurbil, K., & Lenglet, C. (2018). Cortical fibers orientation mapping using in-vivo whole brain 7 T diffusion MRI. NeuroImage, 178(December 2017), 104–118. <<https://doi.org/10.1016/j.neuroimage.2018.05.010>>
 
 - **Gulban, O. F.** (2018). The Relation between Color Spaces and Compositional Data Analysis Demonstrated with Magnetic Resonance Image Processing Applications. Austrian Journal of Statistics, 47(5), 34–46. <<https://doi.org/10.17713/ajs.v47i5.743>>
 
-### Co-authored
+## Co-authored
 - Heuer, K., Gulban, O. F., Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., … Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
 
 - Marquardt, I., Schneider, M., Gulban, O. F., Ivanov, D., & Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
@@ -19,13 +21,13 @@ Note: Multiple **bold** authors indicate shared first authorship.
 ## Preprints
 - Marquardt, I., Weerd, P. De, Schneider, M., Gulban, O. F., Ivanov, D., & Uludag, K. (2019). Depth-resolved ultra-high field fMRI reveals feedback contributions to surface motion perception. Retrieved from <<http://dx.doi.org/10.1101/653626>>
 
-## Data
+# Data
 - **Gulban, O. F.**, Sitek, K. R., Ghosh, S.S., Moerel, M., De Martino, F. (2019). Auditory localization with 7T fMRI <<https://openneuro.org/datasets/ds001942>>
 
-## Code
+# Code
 - See <<https://github.com/ofgulban>>.
 
-## Conference posters
+# Conference posters
 ### 2019
 - Gulban, O. F., Kemper, V. G., Poser, B. A., Ivanov, D., & De Martino, F. (2019). 9.4T MRI reveals mesoscopic cortical gray matter vasculature (Version 1). OHBM 2019 poster. <<https://doi.org/10.6084/m9.figshare.8216057>>
 
