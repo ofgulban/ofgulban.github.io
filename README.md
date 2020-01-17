@@ -1,9 +1,9 @@
-# ofgulban.github.io
-Personal page.
+Omer Faruk Gulban's publications.
 
 ## Peer-reviewed articles
+Note: Multiple **bold** authors indicate shared first authorship.
 ### First author
-- **Sitek, K. R.**, **Gulban, O. F.**, Calabrese, E., Johnson, G. A., Lage-Castellanos, A., Moerel, M., … De Martino, F. (2019). Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T. ELife, 8, 1–36. <<https://doi.org/10.7554/eLife.48932>>
+- **Sitek, K. R.**, **Gulban, O. F.**, Calabrese, E., Johnson, G. A., Lage-Castellanos, A., Moerel, M., … De Martino, F. (2019). Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T. ELife, 8, 1–36. <<https://doi.org/10.7554/eLife.48932>> 
 
 - **Gulban, O. F.**, **Schneider, M.**, Marquardt, I., Haast, R. A. M., & De Martino, F. (2018). A scalable method to improve gray matter segmentation at ultra high field MRI. PloS One, 13(6), e0198335. <<https://doi.org/10.1371/journal.pone.0198335>>
 
