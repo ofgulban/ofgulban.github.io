@@ -29,10 +29,10 @@ Personal page.
 ### 2019
 - Gulban, O. F., Kemper, V. G., Poser, B. A., Ivanov, D., & De Martino, F. (2019). 9.4T MRI reveals mesoscopic cortical gray matter vasculature (Version 1). OHBM 2019 poster. <<https://doi.org/10.6084/m9.figshare.8216057>>
 
-- Gulban, O. F., Mohlberg, H., Amunts, K., Goebel, R., & De Martino, F.. (2019, June 1). Comparison between cytoarchitectonic and MRI based parcellation of the human auditory cortex (Version 2). figshare. https://doi.org/10.6084/m9.figshare.8216069.v2
+- Gulban, O. F., Mohlberg, H., Amunts, K., Goebel, R., & De Martino, F.. (2019, June 1). Comparison between cytoarchitectonic and MRI based parcellation of the human auditory cortex (Version 2). OHBM 2019 poster. <<https://doi.org/10.6084/m9.figshare.8216069>>
 
 ### 2017
-- Gulban, O. F., Esposito, F., Formisano, E., & De Martino, F. (2017). Mapping functional and anatomical connections within the human auditory pathway with ultra-high field MRI (Version 1). ICAC oral presentation and poster. <<https://doi.org/10.6084/m9.figshare.5388310.v1>>
+- Gulban, O. F., Esposito, F., Formisano, E., & De Martino, F. (2017). Mapping functional and anatomical connections within the human auditory pathway with ultra-high field MRI (Version 1). ICAC oral presentation and poster. <<https://doi.org/10.6084/m9.figshare.5388310>>
 
 - Gulban, O. F., Schneider, M., & De Martino, F. (2017). A scalable method to improve outer gray matter boundary segmentation at ultra high field MRI (Version 1). OHBM 2017 poster. https://doi.org/10.6084/m9.figshare.5179069
 
