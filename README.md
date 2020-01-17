@@ -20,7 +20,7 @@ Personal page.
 - Marquardt, I., Weerd, P. De, Schneider, M., **Gulban, O. F.**, Ivanov, D., & Uludag, K. (2019). Depth-resolved ultra-high field fMRI reveals feedback contributions to surface motion perception. Retrieved from <<http://dx.doi.org/10.1101/653626>>
 
 ## Data
--**Gulban, O. F.**, Sitek, K. R., Ghosh, S.S., Moerel, M., De Martino, F. (2019). Auditory localization with 7T fMRI <<10.18112/openneuro.ds001942.v1.2.0>>
+- **Gulban, O. F.**, Sitek, K. R., Ghosh, S.S., Moerel, M., De Martino, F. (2019). Auditory localization with 7T fMRI <<https://openneuro.org/datasets/ds001942>>
 
 ## Code
 - See <<https://github.com/ofgulban>>.
