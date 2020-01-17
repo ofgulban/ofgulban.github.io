@@ -1,4 +1,4 @@
-# Conference posters
+# Conference presentations
 Note: Only first author contributions are listed here.
 ### 2019
 - Gulban, O. F., Kemper, V. G., Poser, B. A., Ivanov, D., De Martino, F. (2019). 9.4T MRI reveals mesoscopic cortical gray matter vasculature. OHBM Rome poster. <<https://doi.org/10.6084/m9.figshare.8216057>>
@@ -13,6 +13,8 @@ Note: Only first author contributions are listed here.
 - Gulban, O. F., Formisano, E., Lage-Castellanos, A., Moerel, M., Yacoub, E., Lenglet, C., De Martino, F. (2017). Using diffusion and functional MRI at 7T to localize primary auditory cortex in-vivo. OHBM Vancouver poster. <<https://doi.org/10.6084/m9.figshare.5178979>>
 
 - Gulban, O. F., De Martino, F., Vu, A. T., Ugurbil, K., Yacoub, E., Lenglet, C. (2017). Cortical fiber orientation mapping using in-vivo 7T diffusion MRI. OHBM Vancouver poster. <<https://doi.org/10.6084/m9.figshare.5179036>>
+
+- Gulban, O. F., De Martino, F., Vu, A. T., Yacoub, E., Ugurbil, K., & Lenglet, C.. (2017). Layer-specific analysis of cortical microstructure using in-vivo 7T diffusion MRI. ISMRM Honolulu oral presentation. https://doi.org/10.6084/m9.figshare.11637111
 
 ### 2016
 - Gulban, O. F., Formisano, E., De Martino, F. (2016). Investigating functional organization of the auditory pathway with high resolution fMRI. OHBM Geneva poster. <<https://doi.org/10.6084/m9.figshare.5178937>>
