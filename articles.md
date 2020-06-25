@@ -22,4 +22,4 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - Marquardt, I., Schneider, M., Gulban, O. F., Ivanov, D., & Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
 
 ## Preprints
-- **Gulban, O. F.**, Goebel R., Moerel M., Zachlod D., Mohlberg H., Amunts K., De Martino F. (2020) Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. bioRxiv. <<https://doi.org/10.1101/2020.03.30.015313>>
+- **Gulban, O. F.**, Goebel, R., Moerel, M., Zachlod, D., Mohlberg, H., Amunts, K., De Martino, F. (2020) Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. bioRxiv. <<https://doi.org/10.1101/2020.03.30.015313>>
