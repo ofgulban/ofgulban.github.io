@@ -18,9 +18,9 @@ Note: Multiple **bold** authors indicate shared first authorship.
 
 ## Co-authored
 ### 2020
-- Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., & De Martino, F. (2020). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 141, 101887. <https://doi.org/10.1016/j.pneurobio.2020.101887>
+- Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., & De Martino, F. (2020). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 141, 101887. <<https://doi.org/10.1016/j.pneurobio.2020.101887>>
 
-- Marquardt, I., De Weerd, P., Schneider, M., **Gulban, O. F.**, Ivanov, D., Wang, Y., & Uludağ, K. (2020). Feedback contribution to surface motion perception in the human early visual cortex. ELife, 9, 1–28. https://doi.org/10.7554/eLife.50933
+- Marquardt, I., De Weerd, P., Schneider, M., **Gulban, O. F.**, Ivanov, D., Wang, Y., & Uludağ, K. (2020). Feedback contribution to surface motion perception in the human early visual cortex. ELife, 9, 1–28. <<https://doi.org/10.7554/eLife.50933>>
 
 ### 2019
 - Heuer, K., **Gulban, O. F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., … Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
@@ -29,4 +29,4 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - Marquardt, I., Schneider, M., **Gulban, O. F.**, Ivanov, D., & Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
 
 ## Preprints
-Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, Jozien, Nothnagel, N., Morgan, A.T., van den Hurk, J., Reynolds R.C., Glen, D.R. Goebel, R., **Gulban, O. F.** (2020). LAYNII: A software suite for layer-fMRI. BioRxiv. <https://doi.org/10.1101/2020.06.12.148080>
+Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, Jozien, Nothnagel, N., Morgan, A.T., van den Hurk, J., Reynolds R.C., Glen, D.R. Goebel, R., **Gulban, O. F.** (2020). LAYNII: A software suite for layer-fMRI. BioRxiv. <<https://doi.org/10.1101/2020.06.12.148080>>
