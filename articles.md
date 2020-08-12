@@ -28,5 +28,5 @@ Note: Multiple **bold** authors indicate shared first authorship.
 ### 2018
 - Marquardt, I., Schneider, M., **Gulban, O. F.**, Ivanov, D., Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
 
-## Preprints
+# Preprints
 - Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, Jozien, Nothnagel, N., Morgan, A. T., van den Hurk, J., Reynolds R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2020). LAYNII: A software suite for layer-fMRI. BioRxiv. <<https://doi.org/10.1101/2020.06.12.148080>>
