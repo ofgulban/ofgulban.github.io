@@ -4,3 +4,4 @@
 - [Data](/data.md)
 - [Code](https://github.com/ofgulban)
 - [Conference posters](/posters.md)
+- [Teaching](/teaching.md)
