@@ -20,7 +20,7 @@ Note: Multiple **bold** authors indicate shared first authorship.
 ### 2020
 - Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., De Martino, F. (2020). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 141, 101887. <<https://doi.org/10.1016/j.pneurobio.2020.101887>>
 
-- Marquardt, I., De Weerd, P., Schneider, M., **Gulban, O. F.**, Ivanov, D., Wang, Y., & Uludağ, K. (2020). Feedback contribution to surface motion perception in the human early visual cortex. ELife, 9, 1–28. <<https://doi.org/10.7554/eLife.50933>>
+- Marquardt, I., De Weerd, P., Schneider, M., **Gulban, O. F.**, Ivanov, D., Wang, Y., Uludağ, K. (2020). Feedback contribution to surface motion perception in the human early visual cortex. ELife, 9, 1–28. <<https://doi.org/10.7554/eLife.50933>>
 
 ### 2019
 - Heuer, K., **Gulban, O. F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., Herbin, M., Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
