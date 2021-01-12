@@ -22,7 +22,7 @@ Note: Multiple **bold** authors indicate shared first authorship.
 
 - Marquardt, I., De Weerd, P., Schneider, M., **Gulban, O. F.**, Ivanov, D., Wang, Y., Uludağ, K. (2020). Feedback contribution to surface motion perception in the human early visual cortex. ELife, 9, 1–28. <<https://doi.org/10.7554/eLife.50933>>
 
-- Berlot, E., Arts, R., Smit, J., George, E., **Gulban, O. F.**, Moerel, M., Stokroos, R., Formisano, E., De Martino, F. (2020). A 7 Tesla fMRI investigation of human tinnitus percept in cortical and subcortical auditory areas. NeuroImage: Clinical, 25(December 2019), 102166. <https://doi.org/10.1016/j.nicl.2020.102166>
+- Berlot, E., Arts, R., Smit, J., George, E., **Gulban, O. F.**, Moerel, M., Stokroos, R., Formisano, E., De Martino, F. (2020). A 7 Tesla fMRI investigation of human tinnitus percept in cortical and subcortical auditory areas. NeuroImage: Clinical, 25(December 2019), 102166. <<https://doi.org/10.1016/j.nicl.2020.102166>>
 
 ### 2019
 - Heuer, K., **Gulban, O. F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., Herbin, M., Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
