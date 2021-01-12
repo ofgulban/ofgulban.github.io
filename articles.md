@@ -22,6 +22,8 @@ Note: Multiple **bold** authors indicate shared first authorship.
 
 - Marquardt, I., De Weerd, P., Schneider, M., **Gulban, O. F.**, Ivanov, D., Wang, Y., Uludağ, K. (2020). Feedback contribution to surface motion perception in the human early visual cortex. ELife, 9, 1–28. <<https://doi.org/10.7554/eLife.50933>>
 
+Berlot, E., Arts, R., Smit, J., George, E., **Gulban, O. F.**, Moerel, M., Stokroos, R., Formisano, E., De Martino, F. (2020). A 7 Tesla fMRI investigation of human tinnitus percept in cortical and subcortical auditory areas. NeuroImage: Clinical, 25(December 2019), 102166. <https://doi.org/10.1016/j.nicl.2020.102166>
+
 ### 2019
 - Heuer, K., **Gulban, O. F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., Herbin, M., Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
 
@@ -29,4 +31,4 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - Marquardt, I., Schneider, M., **Gulban, O. F.**, Ivanov, D., Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
 
 # Preprints
-- Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, Jozien, Nothnagel, N., Morgan, A. T., van den Hurk, J., Reynolds R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2020). LAYNII: A software suite for layer-fMRI. BioRxiv. <<https://doi.org/10.1101/2020.06.12.148080>>
+- Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, Jozien, Nothnagel, N., Morgan, A. T., van den Hurk, J., Reynolds R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2020). LayNii: A software suite for layer-fMRI. BioRxiv. <<https://doi.org/10.1101/2020.06.12.148080>>
