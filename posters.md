@@ -1,5 +1,9 @@
 # Conference presentations
 Note: Only first author contributions are listed here.
+
+### 2020
+- Gulban, O. F., Poser, B., Havlicek, M., De Martino, F., Ivanov, D. (2020). 7T in-vivo human T2* mapping at 350 μm isotropic resolution using ME-GRE with flow artifact mitigation reveals cortical layers & vessels. ISMRM Oral Presentation. <<https://doi.org/10.6084/m9.figshare.13360100.v1>>
+
 ### 2019
 - Gulban, O. F., Kemper, V. G., Poser, B. A., Ivanov, D., De Martino, F. (2019). 9.4T MRI reveals mesoscopic cortical gray matter vasculature. OHBM Rome poster. <<https://doi.org/10.6084/m9.figshare.8216057>>
 
