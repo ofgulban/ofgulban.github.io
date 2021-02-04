@@ -3,5 +3,5 @@
 - [Articles](/articles.md)
 - [Data](/data.md)
 - [Code](https://github.com/ofgulban)
-- [Conference posters](/posters.md)
+- [Presentations](/posters.md)
 - [Teaching](/teaching.md)
