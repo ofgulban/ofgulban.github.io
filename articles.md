@@ -4,7 +4,7 @@ Note: Multiple **bold** authors indicate shared first authorship.
 ## First author
 
 ### 2020
-- **Gülban, Ö. F.** (2020). Imaging the human auditory system at ultrahigh magnetic fields. *PhD Thesis* (ProefschriftMaken). <<https://doi.org/10.26481/dis.20201006og>>
+- **Gulban, O. F.** (2020). Imaging the human auditory system at ultrahigh magnetic fields. *PhD Thesis* (ProefschriftMaken). <<https://doi.org/10.26481/dis.20201006og>>
 
 - **Gulban, O. F.**, Goebel, R., Moerel, M., Zachlod, D., Mohlberg, H., Amunts, K., De Martino, F. (2020). Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. ELife, 9, 1–29. <<https://doi.org/10.7554/eLife.56963>>
 
