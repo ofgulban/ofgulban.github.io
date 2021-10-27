@@ -2,9 +2,9 @@
 Note: Only first author contributions are listed here.
 
 ### 2021
-- Gulban, O. F.; Wagstyl, K.; Goebel, R.; Huber, L. (2021): Patch flattening for high resolution topographical surveys of MRI & histology without surface meshes. figshare. Conference contribution. <https://doi.org/10.6084/m9.figshare.14813172.v1>
+- Gulban, O. F.; Wagstyl, K.; Goebel, R.; Huber, L. (2021): Patch flattening for high resolution topographical surveys of MRI & histology without surface meshes. figshare. Conference contribution. <<https://doi.org/10.6084/m9.figshare.14813172.v1>>
 
-- Gulban, O. F., Bollmann, S., Huber, L., Kay, K., Poser, B. A., De Martino, F., Goebel, R., Ivanov, D. (2021): In vivo human T​2*​ imaging at 0.35 mm reveals up to 15 ms of local variations within gray matter across depths at 7T. figshare. Media. <https://doi.org/10.6084/m9.figshare.14452623.v1>
+- Gulban, O. F., Bollmann, S., Huber, L., Kay, K., Poser, B. A., De Martino, F., Goebel, R., Ivanov, D. (2021): In vivo human T​2*​ imaging at 0.35 mm reveals up to 15 ms of local variations within gray matter across depths at 7T. figshare. Media. <<https://doi.org/10.6084/m9.figshare.14452623.v1>>
 
 
 ### 2020
