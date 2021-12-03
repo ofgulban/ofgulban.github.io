@@ -1,8 +1,9 @@
 # Peer-reviewed articles
-Note: Multiple **bold** authors indicate shared first authorship.
+Multiple **bold** authors indicate shared first authorship.
+Multiple _italics_ authors indicate equal contribution.
 
 ## 2021
-- [Preprint] Gulban, O. F., Bollmann, S., Huber, R., Wagstyl, K., Goebel, R., Poser, B. A., Kay, K., & Ivanov, D. (2021). Mesoscopic Quantification of Cortical Architecture in the Living Human Brain. BioRxiv. <https://doi.org/10.1101/2021.11.25.470023>
+- [Preprint] **Gulban, O. F.**, Bollmann, S., Huber, R., Wagstyl, K., Goebel, R., Poser, B. A., _Kay, K., Ivanov, D._ (2021). Mesoscopic Quantification of Cortical Architecture in the Living Human Brain. BioRxiv. <https://doi.org/10.1101/2021.11.25.470023>
 
 - Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, J., Nothnagel, N., Morgan, A. T., van den Hurk, J., Müller, A. K., Reynolds, R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2021). LayNii: A software suite for layer-fMRI. NeuroImage, 237, 118091. <<https://doi.org/10.1016/j.neuroimage.2021.118091>>
 
@@ -18,7 +19,7 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - Berlot, E., Arts, R., Smit, J., George, E., **Gulban, O. F.**, Moerel, M., Stokroos, R., Formisano, E., De Martino, F. (2020). A 7 Tesla fMRI investigation of human tinnitus percept in cortical and subcortical auditory areas. NeuroImage: Clinical, 25(December 2019), 102166. <<https://doi.org/10.1016/j.nicl.2020.102166>>
 
 ### 2019
-- **Sitek, K. R. & Gulban, O. F.**, Calabrese, E., Johnson, G. A., Lage-Castellanos, A., Moerel, M., Satrajit, S. S., De Martino, F. (2019). Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T. ELife, 8, 1–36. <<https://doi.org/10.7554/eLife.48932>> 
+- **Sitek, K. R. & Gulban, O. F.**, Calabrese, E., Johnson, G. A., Lage-Castellanos, A., Moerel, M., _Satrajit, S. S., De Martino, F._ (2019). Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T. ELife, 8, 1–36. <<https://doi.org/10.7554/eLife.48932>> 
 
 - Heuer, K., **Gulban, O. F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., Herbin, M., Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
 
