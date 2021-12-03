@@ -2,6 +2,7 @@
 Note: Multiple **bold** authors indicate shared first authorship.
 
 ## 2021
+- [Preprint] Gulban, O. F., Bollmann, S., Huber, R., Wagstyl, K., Goebel, R., Poser, B. A., Kay, K., & Ivanov, D. (2021). Mesoscopic Quantification of Cortical Architecture in the Living Human Brain. BioRxiv. <https://doi.org/10.1101/2021.11.25.470023>
 
 - Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, J., Nothnagel, N., Morgan, A. T., van den Hurk, J., Müller, A. K., Reynolds, R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2021). LayNii: A software suite for layer-fMRI. NeuroImage, 237, 118091. <<https://doi.org/10.1016/j.neuroimage.2021.118091>>
 
@@ -29,6 +30,3 @@ Note: Multiple **bold** authors indicate shared first authorship.
 - **Gulban, O. F.** (2018). The Relation between Color Spaces and Compositional Data Analysis Demonstrated with Magnetic Resonance Image Processing Applications. Austrian Journal of Statistics, 47(5), 34–46. <<https://doi.org/10.17713/ajs.v47i5.743>>
 
 - Marquardt, I., Schneider, M., **Gulban, O. F.**, Ivanov, D., Uludağ, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
-
-# Preprints
-- N/A
