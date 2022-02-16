@@ -7,6 +7,8 @@ Multiple _italics_ authors indicate equal contribution.
 
 - Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, J., Nothnagel, N., Morgan, A. T., van den Hurk, J., Müller, A. K., Reynolds, R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2021). LayNii: A software suite for layer-fMRI. NeuroImage, 237, 118091. <<https://doi.org/10.1016/j.neuroimage.2021.118091>>
 
+- Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., De Martino, F. (2021). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 207(August 2020), 101887. <https://doi.org/10.1016/j.pneurobio.2020.101887>
+
 ### 2020
 - **Gulban, O. F.** (2020). Imaging the human auditory system at ultra-high magnetic fields. *PhD Thesis* (ProefschriftMaken). <<https://doi.org/10.26481/dis.20201006og>>
 
