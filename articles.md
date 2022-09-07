@@ -6,7 +6,7 @@ Multiple _italics_ authors indicate equal contribution.
 ## 2022
 - [Preprint] Pizzuti, A., Huber, L., **Gulban O.F.**, Benitez-Andonegui, A., Peters, J., Goebel R. (2022). Imaging the columnar functional organization of human area MT+ to axis-of-motion stimuli using VASO at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2022.07.29.502034>>
 
-- [Preprint] **Gulban, O. F.**, Bollmann, S., Huber, L., Wagstyl, K., Goebel, R., Poser, B. A., _Kay, K., Ivanov, D. (2022). Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2021.11.25.470023>>
+- [Preprint] **Gulban, O. F.**, Bollmann, S., Huber, L., Wagstyl, K., Goebel, R., Poser, B. A., _Kay, K., Ivanov, D._ (2022). Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2021.11.25.470023>>
 
 ## 2021
 - Huber, L., Poser, B. A., Bandettini, P. A., Arora, K., Wagstyl, K., Cho, S., Goense, J., Nothnagel, N., Morgan, A. T., van den Hurk, J., Müller, A. K., Reynolds, R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2021). LayNii: A software suite for layer-fMRI. NeuroImage, 237, 118091. <<https://doi.org/10.1016/j.neuroimage.2021.118091>>
