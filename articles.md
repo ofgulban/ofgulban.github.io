@@ -1,4 +1,4 @@
-# Peer-reviewed articles
+# Scientific articles
 Multiple **bold** authors indicate shared first authorship.
 Multiple _italics_ authors indicate equal contribution.
 
