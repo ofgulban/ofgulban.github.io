@@ -10,6 +10,10 @@ Multiple _italics_ authors indicate equal contribution.
 
 - [Preprint] Pizzuti, A., Huber, L., **Gulban O.F.**, Benitez-Andonegui, A., Peters, J., Goebel R. (2022). Imaging the columnar functional organization of human area MT+ to axis-of-motion stimuli using VASO at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2022.07.29.502034>>
 
+- [Preprint] Koiso, K., Muller, A.K., Akamatsu, K., Dresbach, S., Wiggins, C.J., **Gulban O.F.**, Goebel, R., Miyawaki Y., Poser B.A., Huber, L. (2022) Acquisition and processing methods of whole-brain layer-fMRI VASO and BOLD: The Kenshu dataset. BioRxiv. <<https://doi.org/10.1101/2022.08.19.504502>>
+
+- [Preprint] Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G. (2022) Laminar VASO fMRI in focal hand dystonia patients. BioRxiv. <<https://doi.org/10.1101/2022.07.28.501870>>
+
 - [Preprint] **Gulban, O.F.**, Bollmann, S., Huber, L., Wagstyl, K., Goebel, R., Poser, B. A., _Kay, K., Ivanov, D._ (2022). Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2021.11.25.470023>>
 
 ## 2021
