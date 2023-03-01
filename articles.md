@@ -3,7 +3,7 @@ Multiple **bold** authors indicate shared first authorship.
 Multiple _italics_ authors indicate equal contribution.
 
 ## 2023
-- Huber, L., Kassavetis, P., Gulban, O.F., Hallett, M., Horovitz, S.G., 2023. Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
+- Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G., 2023. Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
 
 
 ## 2022
