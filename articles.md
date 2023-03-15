@@ -5,18 +5,18 @@ Multiple _italics_ authors indicate equal contribution.
 ## 2023
 - Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G. (2023). Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
 
-- [Preprint] Dresbach, S., Huber, L., **Gulban, O.F.**, Goebel, R., (2023). Fast layer-fMRI VASO with short stimuli and event-related designs at 7T. BioRxiv. <<https://doi.org/10.1101/2023.03.15.532735>>
+- [Preprint] Dresbach, S., Huber, L., **Gulban, O.F.**, Goebel, R. (2023). Fast layer-fMRI VASO with short stimuli and event-related designs at 7T. BioRxiv. <<https://doi.org/10.1101/2023.03.15.532735>>
 
 ## 2022
-- **Gulban, O.F.**, Bollmann, S., Huber, L. (Renzo), Wagstyl, K., Goebel, R., Poser, B.A., Kay, K., Ivanov, D., 2022. Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. NeuroImage 264, 119733. <<https://doi.org/10.1016/j.neuroimage.2022.119733>>
+- **Gulban, O.F.**, Bollmann, S., Huber, L. (Renzo), Wagstyl, K., Goebel, R., Poser, B.A., Kay, K., Ivanov, D. (2022). Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. NeuroImage 264, 119733. <<https://doi.org/10.1016/j.neuroimage.2022.119733>>
 
 - Kurzawski, J.W., **Gulban, O.F.**, Jamison, K., Winawer, J., Kay, K. (2022). Non-neural factors influencing BOLD response magnitudes within individual subjects. Journal of Neuroscience. 2022 Aug 15. <<https://www.jneurosci.org/content/early/2022/08/11/JNEUROSCI.2532-21.2022>>
 
 - Heynckes, M., **Gulban, O.F.**, De Martino, F., 2022. On the superior temporal gyrus by R.L. Heschl: English translation of “Über Die Vordere Quere Schläfenwindung Des Menschlichen Großhirns.” Brain Multiphysics 100055. https://doi.org/10.1016/j.brain.2022.100055
 
-- Lage-Castellanos, A., Martino, F.D., Ghose, G.M., **Gulban, O.F.**, Moerel, M., 2022. Selective attention reduces responses to relevant sounds in human auditory cortex. <<https://doi.org/10.1101/2022.09.12.507664>>
+- Lage-Castellanos, A., Martino, F.D., Ghose, G.M., **Gulban, O.F.**, Moerel, M. (2022). Selective attention reduces responses to relevant sounds in human auditory cortex. <<https://doi.org/10.1101/2022.09.12.507664>>
 
-- *Notter, M.P.*, *Herholz, P.*, Da Costa, S., **Gulban, O.F.**, Isik, A.I., Gaglianese, A., Murray, M.M., 2022. fMRIflows: A Consortium of Fully Automatic Univariate and Multivariate fMRI Processing Pipelines. Brain Topogr. <<https://doi.org/10.1007/s10548-022-00935-8>>
+- *Notter, M.P.*, *Herholz, P.*, Da Costa, S., **Gulban, O.F.**, Isik, A.I., Gaglianese, A., Murray, M.M. (2022). fMRIflows: A Consortium of Fully Automatic Univariate and Multivariate fMRI Processing Pipelines. Brain Topogr. <<https://doi.org/10.1007/s10548-022-00935-8>>
 
 - [Preprint] Pizzuti, A., Huber, L., **Gulban O.F.**, Benitez-Andonegui, A., Peters, J., Goebel R. (2022). Imaging the columnar functional organization of human area MT+ to axis-of-motion stimuli using VASO at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2022.07.29.502034>>
 
@@ -25,7 +25,7 @@ Multiple _italics_ authors indicate equal contribution.
 ## 2021
 - Huber, L., Poser, B.A., Bandettini, P.A., Arora, K., Wagstyl, K., Cho, S., Goense, J., Nothnagel, N., Morgan, A. T., van den Hurk, J., Müller, A. K., Reynolds, R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2021). LayNii: A software suite for layer-fMRI. NeuroImage, 237, 118091. <<https://doi.org/10.1016/j.neuroimage.2021.118091>>
 
-- Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., De Martino, F. (2021). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 207(August 2020), 101887. <https://doi.org/10.1016/j.pneurobio.2020.101887>
+- Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., De Martino, F. (2021). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 207, 101887. <https://doi.org/10.1016/j.pneurobio.2020.101887>
 
 ### 2020
 - **Gulban, O. F.** (2020). Imaging the human auditory system at ultra-high magnetic fields. *PhD Thesis* (ProefschriftMaken). <<https://doi.org/10.26481/dis.20201006og>>
@@ -51,3 +51,4 @@ Multiple _italics_ authors indicate equal contribution.
 - **Gulban, O.F.** (2018). The Relation between Color Spaces and Compositional Data Analysis Demonstrated with Magnetic Resonance Image Processing Applications. Austrian Journal of Statistics, 47(5), 34–46. <<https://doi.org/10.17713/ajs.v47i5.743>>
 
 - Marquardt, I., Schneider, M., **Gulban, O.F.**, Ivanov, D., Uludag, K. (2018). Cortical depth profiles of luminance contrast responses in human V1 and V2 using 7 T fMRI. Human Brain Mapping. <<https://doi.org/10.1002/hbm.24042>>
+
