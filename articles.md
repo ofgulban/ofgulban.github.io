@@ -3,7 +3,9 @@ Multiple **bold** authors indicate shared first authorship.
 Multiple _italics_ authors indicate equal contribution.
 
 ## 2023
-- Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G., 2023. Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
+- Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G. (2023). Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
+
+- [Preprint] Dresbach, S., Huber, L., **Gulban, O.F.**, Goebel, R., (2023). Fast layer-fMRI VASO with short stimuli and event-related designs at 7T. BioRxiv. <<https://doi.org/10.1101/2023.03.15.532735>>
 
 ## 2022
 - **Gulban, O.F.**, Bollmann, S., Huber, L. (Renzo), Wagstyl, K., Goebel, R., Poser, B.A., Kay, K., Ivanov, D., 2022. Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. NeuroImage 264, 119733. <<https://doi.org/10.1016/j.neuroimage.2022.119733>>
