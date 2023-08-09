@@ -5,9 +5,9 @@ Multiple _italics_ authors indicate equal contribution.
 ## 2023
 - Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G. (2023). Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
 
-- [Preprint] Dresbach, S., Huber, L., **Gulban, O.F.**, Goebel, R. (2023). Fast layer-fMRI VASO with short stimuli and event-related designs at 7T. BioRxiv. <<https://doi.org/10.1101/2023.03.15.532735>>
+- Pizzuti, A., Huber, L., **Gulban, O.F.**, Benitez-Andonegui, A., Peters, J., Goebel, R. (2023). Imaging the columnar functional organization of human area MT+ to axis-of-motion stimuli using VASO at 7 Tesla. Cerebral Cortex 33, 8693–8711. <<https://doi.org/10.1093/cercor/bhad151>>
 
-- [Preprint] Pizzuti, A., Huber, L., **Gulban O.F.**, Benitez-Andonegui, A., Peters, J., Goebel R. (2022). Imaging the columnar functional organization of human area MT+ to axis-of-motion stimuli using VASO at 7 Tesla. BioRxiv. <<https://doi.org/10.1101/2022.07.29.502034>>
+- [Accepted] Dresbach, S., Huber, L., **Gulban, O.F.**, Goebel, R. (2023). Fast layer-fMRI VASO with short stimuli and event-related designs at 7T. BioRxiv. <<https://doi.org/10.1101/2023.03.15.532735>>
 
 ## 2022
 - **Gulban, O.F.**, Bollmann, S., Huber, L. (Renzo), Wagstyl, K., Goebel, R., Poser, B.A., Kay, K., Ivanov, D. (2022). Mesoscopic in vivo human T2* dataset acquired using quantitative MRI at 7 Tesla. NeuroImage 264, 119733. <<https://doi.org/10.1016/j.neuroimage.2022.119733>>
