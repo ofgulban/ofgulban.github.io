@@ -3,6 +3,8 @@ Multiple **bold** authors indicate shared first authorship.
 Multiple _italics_ authors indicate equal contribution.
 
 ## 2023
+- Koiso, K., Müller, A.K., Akamatsu, K., Dresbach, S., Wiggins, C.J., **Gulban, O.F.**, Goebel, R., Miyawaki, Y., Poser, B.A., 2023. Acquisition and processing methods of whole-brain layer-fMRI VASO and BOLD: The Kenshu dataset. Aperture Neuro 3. <<https://doi.org/10.52294/001c.87961>>
+
 - Dresbach, S., Huber, L. (Renzo), **Gulban, O.F.**, Goebel, R. (2023). Layer-fMRI VASO with short stimuli and event-related designs at 7 T. NeuroImage 279, 120293. <<https://doi.org/10.1016/j.neuroimage.2023.120293>>
 
 - Huber, L., Kassavetis, P., **Gulban, O.F.**, Hallett, M., Horovitz, S.G. (2023). Laminar VASO fMRI in focal hand dystonia patients. Dyst. 2, 10806. <<https://doi.org/10.3389/dyst.2023.10806>>
@@ -19,8 +21,6 @@ Multiple _italics_ authors indicate equal contribution.
 - Lage-Castellanos, A., Martino, F.D., Ghose, G.M., **Gulban, O.F.**, Moerel, M. (2022). Selective attention reduces responses to relevant sounds in human auditory cortex. <<https://doi.org/10.1101/2022.09.12.507664>>
 
 - *Notter, M.P.*, *Herholz, P.*, Da Costa, S., **Gulban, O.F.**, Isik, A.I., Gaglianese, A., Murray, M.M. (2022). fMRIflows: A Consortium of Fully Automatic Univariate and Multivariate fMRI Processing Pipelines. Brain Topogr. <<https://doi.org/10.1007/s10548-022-00935-8>>
-
-- [Preprint] Koiso, K., Muller, A.K., Akamatsu, K., Dresbach, S., Wiggins, C.J., **Gulban O.F.**, Goebel, R., Miyawaki Y., Poser B.A., Huber, L. (2022) Acquisition and processing methods of whole-brain layer-fMRI VASO and BOLD: The Kenshu dataset. BioRxiv. <<https://doi.org/10.1101/2022.08.19.504502>>
 
 ## 2021
 - Huber, L., Poser, B.A., Bandettini, P.A., Arora, K., Wagstyl, K., Cho, S., Goense, J., Nothnagel, N., Morgan, A. T., van den Hurk, J., Müller, A. K., Reynolds, R. C., Glen, D. R., Goebel, R., **Gulban, O. F.** (2021). LayNii: A software suite for layer-fMRI. NeuroImage, 237, 118091. <<https://doi.org/10.1016/j.neuroimage.2021.118091>>
