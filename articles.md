@@ -33,7 +33,7 @@ Multiple _italics_ authors indicate equal contribution.
 
 - Moerel, M., Yacoub, E., **Gulban, O. F.**, Lage-Castellanos, A., De Martino, F. (2021). Using high spatial resolution fMRI to understand representation in the auditory network. Progress in Neurobiology, 207, 101887. <https://doi.org/10.1016/j.pneurobio.2020.101887>
 
-### 2020
+## 2020
 - **Gulban, O. F.** (2020). Imaging the human auditory system at ultra-high magnetic fields. *PhD Thesis* (ProefschriftMaken). <<https://doi.org/10.26481/dis.20201006og>>
 
 - **Gulban, O. F.**, Goebel, R., Moerel, M., Zachlod, D., Mohlberg, H., Amunts, K., De Martino, F. (2020). Improving a probabilistic cytoarchitectonic atlas of auditory cortex using a novel method for inter-individual alignment. ELife, 9, 1–29. <<https://doi.org/10.7554/eLife.56963>>
@@ -44,12 +44,12 @@ Multiple _italics_ authors indicate equal contribution.
 
 - Berlot, E., Arts, R., Smit, J., George, E., **Gulban, O.F.**, Moerel, M., Stokroos, R., Formisano, E., De Martino, F. (2020). A 7 Tesla fMRI investigation of human tinnitus percept in cortical and subcortical auditory areas. NeuroImage: Clinical, 25(December 2019), 102166. <<https://doi.org/10.1016/j.nicl.2020.102166>>
 
-### 2019
+## 2019
 - **Sitek, K.R. & Gulban, O.F.**, Calabrese, E., Johnson, G. A., Lage-Castellanos, A., Moerel, M., _Satrajit, S. S., De Martino, F._ (2019). Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T. ELife, 8, 1–36. <<https://doi.org/10.7554/eLife.48932>>
 
 - Heuer, K., **Gulban, O.F.**, Bazin, P.-L., Osoianu, A., Valabregue, R., Santin, M., Herbin, M., Toro, R. (2019). Evolution of neocortical folding: A phylogenetic comparative analysis of MRI from 34 primate species. Cortex, 1–26. <<https://doi.org/10.1016/j.cortex.2019.04.011>>
 
-### 2018
+## 2018
 - **Gulban, O.F. & Schneider, M.**, Marquardt, I., Haast, R. A. M., De Martino, F. (2018). A scalable method to improve gray matter segmentation at ultra high field MRI. PloS One, 13(6), e0198335. <<https://doi.org/10.1371/journal.pone.0198335>>
 
 - **Gulban, O.F.**, De Martino, F., Vu, A. T., Yacoub, E., Uğurbil, K., Lenglet, C. (2018). Cortical fibers orientation mapping using in-vivo whole brain 7 T diffusion MRI. NeuroImage, 178(December 2017), 104–118. <<https://doi.org/10.1016/j.neuroimage.2018.05.010>>
