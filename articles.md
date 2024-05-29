@@ -5,6 +5,8 @@ Multiple _italics_ authors indicate equal contribution.
 ## 2024
 - _[Book Chapter, Submitted]_ **Gulban, O.F.**, Huber, L., 2024. Computing geometric layers and columns on continuously improving human (f)MRI data. <<https://layerfmri.com/2024/04/18/layerification>>
 
+- _[Preprint]_ Xu M., Ribeiro F.L., Barth M., Bernier M., Bollmann S., Chatterjee S., Cognolato F., **Gulban, O.F.**, Itkyal V., Liu S., Mattern H., Polimeni J.R., Shaw T.B., Speck O., Bollmann S., 2024. VesselBoost: A Python Toolbox for Small Blood Vessel Segmentation in Human Magnetic Resonance Angiography Data. BioRxiv. <<https://doi.org/10.1101/2024.05.22.595251>>
+
 - _[Preprint]_ Dresbach, S., Huber, L., **Gulban, O.F.**, Pizzuti, A., Trampel, R., Ivanov, D., Weiskopf, N., Goebel R., 2024. Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans. BioRxiv. <<https://doi.org/10.1101/2024.01.25.576050>>
 
 
