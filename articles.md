@@ -7,9 +7,9 @@ Multiple _italics_ authors indicate equal contribution.
 
 - Dresbach, S., Huber, R., **Gulban, O.F.**, Pizzuti, A., Trampel, R., Ivanov, D., Weiskopf, N., Goebel, R., 2024. Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans. Imaging Neuroscience 2, 1–16. <<https://doi.org/10.1162/imag_a_00263>>
 
-- _[Preprint]_ Dresbach, S., **Gulban, O.F.**, Steinbach, T., Eck, J., Kashyap, S., Kaas, A., Weiskopf, N., Goebel R., Huber, L., 2024. Laminar CBV and BOLD response-characteristics over time and space in the human primary somatosensory cortex at 7T. BioRxiv. <<https://doi.org/10.1101/2024.06.26.600746>>
+- Xu, M., Ribeiro, F.L., Barth, M., Bernier, M., Bollmann, Steffen, Chatterjee, S., Cognolato, F., **Gulban, O.F.**, Itkyal, V., Liu, S., Mattern, H., Polimeni, J.R., Shaw, T.B., Speck, O., Bollmann, Saskia, 2024. VesselBoost: A Python Toolbox for Small Blood Vessel Segmentation in Human Magnetic Resonance Angiography Data. Aperture Neuro 4. <<https://doi.org/10.52294/001c.123217>>
 
-- _[Preprint]_ Xu M., Ribeiro F.L., Barth M., Bernier M., Bollmann S., Chatterjee S., Cognolato F., **Gulban, O.F.**, Itkyal V., Liu S., Mattern H., Polimeni J.R., Shaw T.B., Speck O., Bollmann S., 2024. VesselBoost: A Python Toolbox for Small Blood Vessel Segmentation in Human Magnetic Resonance Angiography Data. BioRxiv. <<https://doi.org/10.1101/2024.05.22.595251>>
+- _[Preprint]_ Dresbach, S., **Gulban, O.F.**, Steinbach, T., Eck, J., Kashyap, S., Kaas, A., Weiskopf, N., Goebel R., Huber, L., 2024. Laminar CBV and BOLD response-characteristics over time and space in the human primary somatosensory cortex at 7T. BioRxiv. <<https://doi.org/10.1101/2024.06.26.600746>>
 
 ## 2023
 - Koiso, K., Müller, A.K., Akamatsu, K., Dresbach, S., Wiggins, C.J., **Gulban, O.F.**, Goebel, R., Miyawaki, Y., Poser, B.A., 2023. Acquisition and processing methods of whole-brain layer-fMRI VASO and BOLD: The Kenshu dataset. Aperture Neuro 3. <<https://doi.org/10.52294/001c.87961>>
