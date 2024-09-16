@@ -8,6 +8,10 @@ Multiple _italics_ authors indicate equal contribution.
 - Dresbach, S., Huber, R., **Gulban, O.F.**, Pizzuti, A., Trampel, R., Ivanov, D., Weiskopf, N., Goebel, R., 2024. Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans. Imaging Neuroscience 2, 1–16. <<https://doi.org/10.1162/imag_a_00263>>
 
 - Xu, M., Ribeiro, F.L., Barth, M., Bernier, M., Bollmann, Steffen, Chatterjee, S., Cognolato, F., **Gulban, O.F.**, Itkyal, V., Liu, S., Mattern, H., Polimeni, J.R., Shaw, T.B., Speck, O., Bollmann, Saskia, 2024. VesselBoost: A Python Toolbox for Small Blood Vessel Segmentation in Human Magnetic Resonance Angiography Data. Aperture Neuro 4. <<https://doi.org/10.52294/001c.123217>>
+  
+- _[Preprint]_ Pizzuti, A., **Gulban, O.F.**, Huber, L., Peters, J., Goebel, R., 2024. In the brain of the beholder: bi-stable motion reveals mesoscopic-scale feedback modulation in V1. BioRxiv <<https://doi.org/10.1101/2024.09.10.612252>>
+
+- _[Preprint]_ Huber, L., Stirnberg, R., Morgan, A.T., Feinberg, D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle, S.G., Persichetti, A., Beckett, A.J.S., Stöcker, T., Boulant, N., Poser, B.A., Bandettini, P., 2024. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
 
 - _[Preprint]_ Dresbach, S., **Gulban, O.F.**, Steinbach, T., Eck, J., Kashyap, S., Kaas, A., Weiskopf, N., Goebel R., Huber, L., 2024. Laminar CBV and BOLD response-characteristics over time and space in the human primary somatosensory cortex at 7T. BioRxiv. <<https://doi.org/10.1101/2024.06.26.600746>>
 
