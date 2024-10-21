@@ -13,6 +13,8 @@ Multiple _italics_ authors indicate equal contribution.
 
 - _[Preprint]_ Huber, L., Stirnberg, R., Morgan, A.T., Feinberg, D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle, S.G., Persichetti, A., Beckett, A.J.S., Stöcker, T., Boulant, N., Poser, B.A., Bandettini, P., 2024. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
 
+- _[Preprint]_ Kan, C., Stirnberg, R., Montequin, M., **Gulban, O.F.**, Morgan, A.T., Bandettini, P., Huber, L. T1234: A distortion-matched structural scan solution to misregistration of high resolution fMRI data. BioRxiv. <<https://www.biorxiv.org/content/10.1101/2024.09.19.613939v1>>
+
 - _[Preprint]_ Dresbach, S., **Gulban, O.F.**, Steinbach, T., Eck, J., Kashyap, S., Kaas, A., Weiskopf, N., Goebel R., Huber, L., 2024. Laminar CBV and BOLD response-characteristics over time and space in the human primary somatosensory cortex at 7T. BioRxiv. <<https://doi.org/10.1101/2024.06.26.600746>>
 
 ## 2023
