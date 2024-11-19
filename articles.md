@@ -8,6 +8,8 @@ Multiple _italics_ authors indicate equal contribution.
 - Dresbach, S., Huber, R., **Gulban, O.F.**, Pizzuti, A., Trampel, R., Ivanov, D., Weiskopf, N., Goebel, R., 2024. Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans. Imaging Neuroscience 2, 1–16. <<https://doi.org/10.1162/imag_a_00263>>
 
 - Xu, M., Ribeiro, F.L., Barth, M., Bernier, M., Bollmann, Steffen, Chatterjee, S., Cognolato, F., **Gulban, O.F.**, Itkyal, V., Liu, S., Mattern, H., Polimeni, J.R., Shaw, T.B., Speck, O., Bollmann, Saskia, 2024. VesselBoost: A Python Toolbox for Small Blood Vessel Segmentation in Human Magnetic Resonance Angiography Data. Aperture Neuro 4. <<https://doi.org/10.52294/001c.123217>>
+
+- _[Preprint]_ Pizzuti, _Bazin_, Ivanov, Dresbach, Peters, Goebel, **_Gulban_**. Multimodal laminar characterization of visual areas along the cortical hierarchy.
   
 - _[Preprint]_ Pizzuti, A., **Gulban, O.F.**, Huber, L., Peters, J., Goebel, R., 2024. In the brain of the beholder: bi-stable motion reveals mesoscopic-scale feedback modulation in V1. BioRxiv <<https://doi.org/10.1101/2024.09.10.612252>>
 
