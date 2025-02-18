@@ -8,7 +8,7 @@ Multiple _italics_ authors indicate equal contribution.
 - Huber, R., Stirnberg, R., Morgan, A.T., Feinberg D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle S.G., Persichetti, A., Beckett, A.J.S, Stoecker, T., Boulant, N., Poser, B.A., Bandettini P., 2025. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
 
 ## 2024
-- _[Book Chapter]_ **Gulban, O.F.**, Huber, R., 2024. Computing geometric layers and columns on continuously improving human (f)MRI data, in: Reference Module in Neuroscience and Biobehavioral Psychology. Elsevier, p. B9780128204801001881. <<https://doi.org/10.1016/B978-0-12-820480-1.00188-1>>
+- _[Book Chapter]_ **Gulban, O.F.**, Huber, R., 2024. Computing geometric layers and columns on continuously improving human (f)MRI data. Encyclopedia of the Human Brain (Second Edition). Elsevier. ISBN 978-0-12-820481-8.
 
 - Dresbach, S., Huber, R., **Gulban, O.F.**, Pizzuti, A., Trampel, R., Ivanov, D., Weiskopf, N., Goebel, R., 2024. Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans. Imaging Neuroscience 2, 1–16. <<https://doi.org/10.1162/imag_a_00263>>
 
