@@ -2,6 +2,11 @@
 Multiple **bold** authors indicate shared first authorship.
 Multiple _italics_ authors indicate equal contribution.
 
+## 2025
+- Pizzuti, A., Acero-Pousa, I., **Gulban, O.F.**, Peters, J., Deco, G., Goebel, R., 2025. In the brain of the beholder: whole brain dynamics shape the perception during ambiguous motion. BioRxiv <<https://doi.org/10.1101/2025.02.05.636650>>
+
+- Huber, R., Stirnberg, R., Morgan, A.T., Feinberg D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle S.G., Persichetti, A., Beckett, A.J.S, Stoecker, T., Boulant, N., Poser, B.A., Bandettini P., 2025. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
+
 ## 2024
 - _[Book Chapter]_ **Gulban, O.F.**, Huber, R., 2024. Computing geometric layers and columns on continuously improving human (f)MRI data, in: Reference Module in Neuroscience and Biobehavioral Psychology. Elsevier, p. B9780128204801001881. <<https://doi.org/10.1016/B978-0-12-820480-1.00188-1>>
 
