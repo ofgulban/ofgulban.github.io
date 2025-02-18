@@ -3,7 +3,7 @@ Multiple **bold** authors indicate shared first authorship.
 Multiple _italics_ authors indicate equal contribution.
 
 ## 2025
-- Pizzuti, A., Acero-Pousa, I., **Gulban, O.F.**, Peters, J., Deco, G., Goebel, R., 2025. In the brain of the beholder: whole brain dynamics shape the perception during ambiguous motion. BioRxiv <<https://doi.org/10.1101/2025.02.05.636650>>
+- _[Preprint]_ Pizzuti, A., Acero-Pousa, I., **Gulban, O.F.**, Peters, J., Deco, G., Goebel, R., 2025. In the brain of the beholder: whole brain dynamics shape the perception during ambiguous motion. BioRxiv <<https://doi.org/10.1101/2025.02.05.636650>>
 
 - _[Preprint]_ Huber, L., Stirnberg, R., Morgan, A.T., Feinberg, D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle, S.G., Persichetti, A., Beckett, A.J.S., Stöcker, T., Boulant, N., Poser, B.A., Bandettini, P., 2024. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
 
