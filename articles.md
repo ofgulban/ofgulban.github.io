@@ -5,6 +5,8 @@ Multiple _italics_ authors indicate equal contribution.
 ## 2025
 - Pizzuti, A., Acero-Pousa, I., **Gulban, O.F.**, Peters, J., Deco, G., Goebel, R., 2025. In the brain of the beholder: whole brain dynamics shape the perception during ambiguous motion. BioRxiv <<https://doi.org/10.1101/2025.02.05.636650>>
 
+- _[Preprint]_ Huber, L., Stirnberg, R., Morgan, A.T., Feinberg, D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle, S.G., Persichetti, A., Beckett, A.J.S., Stöcker, T., Boulant, N., Poser, B.A., Bandettini, P., 2024. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
+
 ## 2024
 - _[Book Chapter]_ **Gulban, O.F.**, Huber, R., 2024. Computing geometric layers and columns on continuously improving human (f)MRI data. Encyclopedia of the Human Brain (Second Edition). Elsevier. ISBN 978-0-12-820481-8.
 
@@ -15,8 +17,6 @@ Multiple _italics_ authors indicate equal contribution.
 - _[Preprint]_ Pizzuti, A., Bazin, P. L., Ivanov, D., Dresbach, S., Peters, J., Goebel, R., **_Gulban, O.F._**. Multimodal laminar characterization of visual areas along the cortical hierarchy. BioRxiv. <<https://doi.org/10.1101/2024.11.18.624072>>
   
 - _[Preprint]_ Pizzuti, A., **Gulban, O.F.**, Huber, L., Peters, J., Goebel, R., 2024. In the brain of the beholder: bi-stable motion reveals mesoscopic-scale feedback modulation in V1. BioRxiv <<https://doi.org/10.1101/2024.09.10.612252>>
-
-- _[Preprint]_ Huber, L., Stirnberg, R., Morgan, A.T., Feinberg, D.A., Ehses, P., Knudsen, L., **Gulban, O.F.**, Koiso, K., Swegle, S., Gephart, I., Wardle, S.G., Persichetti, A., Beckett, A.J.S., Stöcker, T., Boulant, N., Poser, B.A., Bandettini, P., 2024. Fuzzy ripple artifact in high resolution fMRI: identification, cause, and mitigation. BioRxiv. <<https://doi.org/10.1101/2024.09.04.611294>>
 
 - _[Preprint]_ Kan, C., Stirnberg, R., Montequin, M., **Gulban, O.F.**, Morgan, A.T., Bandettini, P., Huber, L. T1234: A distortion-matched structural scan solution to misregistration of high resolution fMRI data. BioRxiv. <<https://www.biorxiv.org/content/10.1101/2024.09.19.613939v1>>
 
