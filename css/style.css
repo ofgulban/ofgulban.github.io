@@ -23,7 +23,7 @@ header {
 header h1 {
     margin: 0;
     padding: 0;
-    line-height: 65px;
+    line-height: 63px;
     text-transform: capitalize;
     font-variant: small-caps;
 }
@@ -206,6 +206,7 @@ section {
 .pub-list {
     list-style-type: none;
     padding: 0;
+    margin-bottom: 0px;
 }
 
 .pub-list li {
