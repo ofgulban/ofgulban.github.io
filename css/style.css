@@ -23,7 +23,7 @@ header {
 header h1 {
     margin: 0;
     padding: 0;
-    line-height: 63px;
+    line-height: 50px;
     text-transform: capitalize;
     font-variant: small-caps;
 }
