@@ -238,3 +238,17 @@ section {
     font-weight: bold;
     color: #e46011ff;
 }
+
+/* ========================================================================= */
+/* Collaborators List */
+/* ========================================================================= */
+.collab-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.collab-column {
+    flex: 1;
+    min-width: 200px;
+}
