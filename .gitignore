@@ -1,4 +1,2 @@
-# macOS system files
-.DS_Store
-.AppleDouble
-.LSOverride
+# Mac stuff
+*.DS_Store
