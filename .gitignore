@@ -1,2 +1,31 @@
-# Mac stuff
-*.DS_Store
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+Thumbs.db
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+
+# GitHub Pages / Jekyll default exclusions
+.sass-cache/
+.jekyll-cache/
+_site/
+.cache/
+node_modules/
+
+# Build tools
+dist/
+build/
+tmp/
+*.log
+
+# Optional: ignore VS Code settings (if you use it)
+.vscode/
